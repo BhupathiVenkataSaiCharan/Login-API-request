@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Login-API-request/static/css/main.073c9b0a.css",
+    "main.js": "/Login-API-request/static/js/main.ec126272.js",
+    "index.html": "/Login-API-request/index.html",
+    "main.073c9b0a.css.map": "/Login-API-request/static/css/main.073c9b0a.css.map",
+    "main.ec126272.js.map": "/Login-API-request/static/js/main.ec126272.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.ec126272.js"
+  ]
+}
